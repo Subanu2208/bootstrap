@@ -1,0 +1,30 @@
+.full-screen-image {
+  height: 100vh;
+  /* Set height to 100% of the viewport height */
+  /* Replace 'your-image.jpg' with the path to your image */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+
+  color: #fff;
+  /* Text color on top of the image */
+  text-align: center;
+}
+
+.card1 {
+  border: none;
+}
+
+.background{
+  background-color: rgba(255, 182, 193, 0.918);
+}
+
+.head {
+  margin-left: 5%;
+}
+
+.card2 {
+  background-color: sandybrown;
+  border: 1px solid orange;
+  font-size: 17px;
+}
